@@ -1,0 +1,1 @@
+# Ansible-Clickhouse-Vector-Lighthouse
